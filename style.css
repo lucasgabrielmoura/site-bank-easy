@@ -25,6 +25,7 @@ h2{
     margin-bottom: 0.8rem;
     color: var(--color-blue);
     font-weight: normal;
+    vertical-align: text-bottom;
 }
 
 a{
